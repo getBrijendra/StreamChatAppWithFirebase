@@ -6,13 +6,13 @@ import {  getFirestore, getDoc, setDoc, doc, updateDoc, increment, runTransactio
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBf6ddgVfBD-UeprIlNwCNcnuS0n4gG2Gs",
+  apiKey: "AIzaSyBf6dNVNRENERN878NN8Y8JSDVV9UuS0n4gG2Gs",
   authDomain: "chat-app-demo-bc24b.firebaseapp.com",
   databaseURL: "https://chat-app-demo-bc24b-default-rtdb.firebaseio.com",
-  projectId: "chat-app-demo-bc24b",
-  storageBucket: "chat-app-demo-bc24b.appspot.com",
-  messagingSenderId: "747021367728",
-  appId: "1:747021367728:web:2bd63a4a49ea25123cfe75",
+  projectId: "chat-app-demo-bc34524b",
+  storageBucket: "chat-app-demo-455.appspot.com",
+  messagingSenderId: "346547456457",
+  appId: "1:534634634536345:web:2bd34t3df34t34g54cfe75",
   measurementId: "G-L1CD1F9G2S"
 }
 // Initialize Firebase
